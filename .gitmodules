@@ -1,0 +1,4 @@
+[submodule "deps"]
+	path = deps
+	url = https://github.com/Microno95/COGL
+	branch = modern-cmake
